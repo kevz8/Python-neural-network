@@ -12,12 +12,12 @@ This project demonstrates a basic implementation of a neural network using Pytho
 # Code Explanation
 ## Neural Network Class
 
-# Initialization:
+### Initialization:
 
 - Defines the network architecture with one hidden layer.
 - Initializes weights and biases with random values and zeros, respectively.
 
-# Backpropagation Method:
+### Backpropagation Method:
 
 - Updates weights and biases based on the error between the predicted output and the true output.
 - Uses the gradient of the sigmoid function to adjust weights.
